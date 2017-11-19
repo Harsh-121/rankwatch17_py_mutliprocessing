@@ -1,2 +1,4 @@
 # rankwatch17_py_mutliprocessing
-company work
+send parallel mails to users using multiprocessing library of python
+
+
